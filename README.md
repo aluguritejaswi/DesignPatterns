@@ -1,2 +1,2 @@
 # DesignPatterns
-All the different types of design patterns sample code is present
+Included Sample code for all the design patterns.
