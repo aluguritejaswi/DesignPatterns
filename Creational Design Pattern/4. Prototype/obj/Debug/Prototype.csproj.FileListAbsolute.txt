@@ -1,0 +1,14 @@
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Prototype\bin\Debug\Prototype.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Prototype\bin\Debug\Prototype.pdb
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Prototype\obj\Debug\Prototype.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Prototype\obj\Debug\Prototype.pdb
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Creational Design Pattern\4. Prototype\bin\Debug\Prototype.exe.config
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Creational Design Pattern\4. Prototype\bin\Debug\Prototype.exe
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Creational Design Pattern\4. Prototype\bin\Debug\Prototype.pdb
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Creational Design Pattern\4. Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Creational Design Pattern\4. Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Creational Design Pattern\4. Prototype\obj\Debug\Prototype.exe
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Creational Design Pattern\4. Prototype\obj\Debug\Prototype.pdb

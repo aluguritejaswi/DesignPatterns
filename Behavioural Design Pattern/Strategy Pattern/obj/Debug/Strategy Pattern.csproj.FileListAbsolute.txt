@@ -1,0 +1,7 @@
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.exe.config
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.exe
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Strategy Pattern\bin\Debug\Strategy Pattern.pdb
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.csproj.AssemblyReference.cache
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.csproj.CoreCompileInputs.cache
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.exe
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.pdb

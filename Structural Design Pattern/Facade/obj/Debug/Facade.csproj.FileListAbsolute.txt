@@ -1,0 +1,13 @@
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\Facade\bin\Debug\Facade.exe.config
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\Facade\bin\Debug\Facade.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\Facade\bin\Debug\Facade.pdb
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\Facade\obj\Debug\Facade.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\Facade\obj\Debug\Facade.pdb
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\Facade\bin\Debug\Facade.exe.config
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\Facade\bin\Debug\Facade.exe
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\Facade\bin\Debug\Facade.pdb
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\Facade\obj\Debug\Facade.exe
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\Facade\obj\Debug\Facade.pdb

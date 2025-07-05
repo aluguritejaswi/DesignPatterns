@@ -1,0 +1,7 @@
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Template Pattern\bin\Debug\Template Pattern.exe.config
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Template Pattern\bin\Debug\Template Pattern.exe
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Template Pattern\bin\Debug\Template Pattern.pdb
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Template Pattern\obj\Debug\Template Pattern.csproj.AssemblyReference.cache
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Template Pattern\obj\Debug\Template Pattern.csproj.CoreCompileInputs.cache
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Template Pattern\obj\Debug\Template Pattern.exe
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Template Pattern\obj\Debug\Template Pattern.pdb

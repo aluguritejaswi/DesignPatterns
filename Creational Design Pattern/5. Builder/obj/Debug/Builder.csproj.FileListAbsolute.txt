@@ -1,0 +1,7 @@
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Builder\bin\Debug\Builder.exe.config
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Builder\bin\Debug\Builder.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Builder\bin\Debug\Builder.pdb
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Builder\obj\Debug\Builder.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\Builder\obj\Debug\Builder.pdb

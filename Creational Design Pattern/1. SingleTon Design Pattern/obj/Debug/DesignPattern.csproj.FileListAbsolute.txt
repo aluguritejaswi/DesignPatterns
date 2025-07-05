@@ -1,0 +1,14 @@
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DesignPattern\bin\Debug\DesignPattern.exe.config
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DesignPattern\bin\Debug\DesignPattern.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DesignPattern\bin\Debug\DesignPattern.pdb
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DesignPattern\obj\Debug\DesignPattern.csproj.AssemblyReference.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DesignPattern\obj\Debug\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DesignPattern\obj\Debug\DesignPattern.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\1. SingleTon Design Pattern\bin\Debug\DesignPattern.exe.config
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\1. SingleTon Design Pattern\bin\Debug\DesignPattern.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\1. SingleTon Design Pattern\bin\Debug\DesignPattern.pdb
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\1. SingleTon Design Pattern\obj\Debug\DesignPattern.csproj.AssemblyReference.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\1. SingleTon Design Pattern\obj\Debug\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\1. SingleTon Design Pattern\obj\Debug\DesignPattern.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\1. SingleTon Design Pattern\obj\Debug\DesignPattern.pdb

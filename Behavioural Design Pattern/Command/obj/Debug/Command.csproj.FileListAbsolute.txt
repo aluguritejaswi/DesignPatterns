@@ -1,0 +1,17 @@
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Behavioural Design Pattern\Command\obj\Debug\Command.Properties.Resources.resources
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Behavioural Design Pattern\Command\obj\Debug\Command.csproj.GenerateResource.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Behavioural Design Pattern\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Behavioural Design Pattern\Command\bin\Debug\Command.exe.config
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Behavioural Design Pattern\Command\bin\Debug\Command.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Behavioural Design Pattern\Command\bin\Debug\Command.pdb
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Behavioural Design Pattern\Command\obj\Debug\Command.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Behavioural Design Pattern\Command\obj\Debug\Command.pdb
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Command\bin\Debug\Command.exe.config
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Command\bin\Debug\Command.exe
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Command\bin\Debug\Command.pdb
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Command\obj\Debug\Command.csproj.AssemblyReference.cache
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Command\obj\Debug\Command.Properties.Resources.resources
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Command\obj\Debug\Command.csproj.GenerateResource.cache
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Command\obj\Debug\Command.exe
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Command\obj\Debug\Command.pdb

@@ -1,0 +1,13 @@
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe.config
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe.config
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.AssemblyReference.cache
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.exe
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb

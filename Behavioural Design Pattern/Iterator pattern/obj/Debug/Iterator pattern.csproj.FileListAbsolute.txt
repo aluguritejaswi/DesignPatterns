@@ -1,0 +1,7 @@
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Iterator pattern\bin\Debug\Iterator pattern.exe.config
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Iterator pattern\bin\Debug\Iterator pattern.exe
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Iterator pattern\bin\Debug\Iterator pattern.pdb
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Iterator pattern\obj\Debug\Iterator pattern.csproj.AssemblyReference.cache
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Iterator pattern\obj\Debug\Iterator pattern.csproj.CoreCompileInputs.cache
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Iterator pattern\obj\Debug\Iterator pattern.exe
+D:\PRACTICE\C SHARP PRACTICE\DESIGN PATTERNS\Behavioural Design Pattern\Iterator pattern\obj\Debug\Iterator pattern.pdb

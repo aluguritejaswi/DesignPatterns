@@ -1,0 +1,14 @@
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\tejaswi\OneDrive - SrinSoft Technologies Pvt Ltd\Training\DESIGN PATTERNS\Structural Design Pattern\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\AdapterDesignPattern\bin\Debug\ConsoleApp1.exe.config
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\AdapterDesignPattern\bin\Debug\ConsoleApp1.exe
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\AdapterDesignPattern\bin\Debug\ConsoleApp1.pdb
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\AdapterDesignPattern\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\AdapterDesignPattern\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\AdapterDesignPattern\obj\Debug\ConsoleApp1.exe
+D:\C SHARP PRACTICE\DESIGN PATTERNS\Structural Design Pattern\AdapterDesignPattern\obj\Debug\ConsoleApp1.pdb
