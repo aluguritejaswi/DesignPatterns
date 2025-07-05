@@ -1,0 +1,14 @@
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+*.obj
+*.dll
+*.exe
+*.pdb
+*.cache
+bin/
+obj/
+.vscode/
+*.dbmdl
